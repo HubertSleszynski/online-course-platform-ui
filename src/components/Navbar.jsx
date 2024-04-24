@@ -34,7 +34,7 @@ const Navbar = () => {
                 alt="logo"
                 className="w-10 inline-block items-center"
               />
-              <span>HRS.</span>
+              <span>VirtuClass</span>
             </a>
             <ul className="md:flex space-x-12 hidden">
               {navItems.map(({ link, path }) => (

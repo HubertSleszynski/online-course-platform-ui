@@ -16,7 +16,7 @@ const Footer = () => {
             className="text-2xl font-semibold flex items-center space-x-3 mt-5"
           >
             <img src={logo} alt="" className="w-10 inline-block items-center" />
-            <span className="text-white">HRS.</span>
+            <span className="text-white">VirtuClass</span>
           </a>
           <p className="md:w-1/2">Empowering minds, one click at a time.</p>
           <div>
@@ -84,7 +84,7 @@ const Footer = () => {
       <hr className="" />
 
       <div className="text-white flex flex-col sm:flex-row gap-8 sm:items-center justify-between my-8">
-        <p>@ HRS.2024 All rights reserved.</p>
+        <p>@ VirtuClass 2024 All rights reserved.</p>
         <div className="flex items-center space-x-5">
           <img src={fb} alt="fb-link" className="w-8" />
           <img src={insta} alt="" className="w-8" />
