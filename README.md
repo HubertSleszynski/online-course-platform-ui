@@ -1,25 +1,25 @@
-# ONLINE COURSE PLATFORM UI
+# VirtuClass
 
 This repository is a React-based e-commerce website UI project, utilizing Tailwind CSS for styling. It aims to provide a clean, modern, and responsive user interface for browsing and purchasing clothing items online. The project focuses on leveraging React's component-based architecture and Tailwind's utility-first approach to streamline development and enhance user experience.
 
 ## Demo
 
-LIVE: [Online Course Platform](https://hubert-sleszynski-ocp-ui.netlify.app/)
+LIVE: [VirtuClass](https://hrs-virtu-class.netlify.app/)
 
 ## Screenshot
 
-<img src="src/assets/hubert-sleszynski-ocp-ui.netlify.app-mockup.png" width="600">
+<img src="src/assets/hrs-virtu-class.netlify.app_.png" width="600">
 
 ## Tech Stack
 
-Yarn Vite React TailwindCSS
+Yarn Vite React Tailwind
 
 ## Author
 
 ### Hubert Śleszyński
 
-Portfolio: https://hubertsleszynski.github.io/portfolio/
+Portfolio: https://hrs-dev.netlify.app/
 
-Linkedin: https://www.linkedin.com/in/hubert-%C5%9Bleszy%C5%84ski-74b755231/
+Linkedin: https://www.linkedin.com/in/hubertsleszynski/
 
 Github: https://github.com/HubertSleszynski
